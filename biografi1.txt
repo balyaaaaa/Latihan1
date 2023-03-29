@@ -1,0 +1,4 @@
+NAMA    : Ahmad Balya Afandi
+NIM     : 202111003
+NO      : 1
+JURUSAN : Informatika
